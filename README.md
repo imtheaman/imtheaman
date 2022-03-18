@@ -30,7 +30,7 @@ Python
 </li>
 </ul>
 
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urtheaman&langs_count=10&theme=flat&layout=compact" alt="erfan :: Top Langs" />
 </div>
 
