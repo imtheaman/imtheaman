@@ -44,5 +44,4 @@ Status
 	🚧  Urtheaman 🚀 Under construction...  🚧
 </h4>
 
-<hr>
 <a href="#top">Back to top</a>
