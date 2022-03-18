@@ -1,3 +1,9 @@
+<style>
+  .name {
+    font-size: 20px;
+    color: red;
+  }
+  </style>
 <div align="center" id="top"> 
 &#xa0;
 </div>
