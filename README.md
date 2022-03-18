@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="https://avatars.githubusercontent.com/u/62852336?v=4" width="120" alt="Urtheaman" />
+  <img src="https://avatars.githubusercontent.com/u/62852336?v=4" style="width:120; border-radius: 50%" alt="Urtheaman" />
 
 &#xa0;
 
@@ -10,8 +10,8 @@
 <h1 align="center">Aman</h1>
 
 <p align="center">
-  <img alt="TypeScript" width="120" src="https://cdn-images-1.medium.com/max/1200/1*mn6bOs7s6Qbao15PMNRyOA.png">
-  <img alt="TypeScript" width="120" src="https://th.bing.com/th/id/OIP.5kvpxVbWPk7jHs3psz0BowHaGf?pid=ImgDet&rs=1">
+  <img alt="TypeScript" style="width:120; border-radius: 50%" src="https://cdn-images-1.medium.com/max/1200/1*mn6bOs7s6Qbao15PMNRyOA.png">
+  <img alt="TypeScript" style="width:120; border-radius: 50%" src="https://th.bing.com/th/id/OIP.5kvpxVbWPk7jHs3psz0BowHaGf?pid=ImgDet&rs=1">
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/urtheaman?color=56BEB8">
 
