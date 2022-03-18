@@ -36,9 +36,9 @@ Python
 	<img alt="Next" width="30" height="30" title="Next" src="https://cdn.auth0.com/blog/next3/logo.png">
 	<img alt="React" title="React" width="30" height="30" src="https://th.bing.com/th/id/R.f81a6f373c244b1f70f4b7402b5ab372?rik=rbXh4ieLuKt%2bmA&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f09%2fReact_logo_logotype_emblem.png&ehk=QhGOkKcUKCU7FBQgHOajOiJqJBACUTD2Ni6LsfqzCEA%3d&risl=&pid=ImgRaw&r=0">
 	<img alt="Redux" title="Redux" width="30" height="30" src="https://careers.veepee.com/wp-content/uploads/TECHNO_Redux-Logo.png">
-	<img alt="Webpack" title="Webpack" width="32" height="32" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png">
-	<img alt="Redux Saga" title="Redux Saga" width="40" src="https://cdn.freebiesupply.com/logos/large/2x/redux-saga-logo-png-transparent.png">
-	<img alt="Babel" title="Babel" width="45" src="https://raw.githubusercontent.com/babel/logo/master/babel.png">
+	<img alt="Webpack" title="Webpack" width="34" height="34" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png">
+	<img alt="Redux Saga" title="Redux Saga" width="45" src="https://cdn.freebiesupply.com/logos/large/2x/redux-saga-logo-png-transparent.png">
+	<img alt="Babel" title="Babel" width="50" src="https://raw.githubusercontent.com/babel/logo/master/babel.png">
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="" height="30" width="30">
 </div>
 
