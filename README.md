@@ -1,21 +1,23 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Urtheaman" />
+  <img src="https://avatars.githubusercontent.com/u/62852336?v=4" width="120" alt="Urtheaman" />
 
-  &#xa0;
+&#xa0;
 
-  <!-- <a href="https://urtheaman.netlify.app">Demo</a> -->
+<a href="https://urtheaman.netlify.app">Portfolio [currently not available]</a>
+
 </div>
 
-<h1 align="center">Urtheaman</h1>
+<h1 align="center">Aman</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/urtheaman?color=56BEB8">
+  <img alt="TypeScript" width="120" src="https://cdn-images-1.medium.com/max/1200/1*mn6bOs7s6Qbao15PMNRyOA.png">
+  <img alt="TypeScript" width="120" src="https://th.bing.com/th/id/OIP.5kvpxVbWPk7jHs3psz0BowHaGf?pid=ImgDet&rs=1">
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/urtheaman?color=56BEB8">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/urtheaman?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/urtheaman?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/urtheaman?color=green">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/urtheaman?color=56BEB8" /> -->
 
@@ -26,9 +28,9 @@
 
 <!-- Status -->
 
-<!-- <h4 align="center"> 
+<!-- <h4 align="center">
 	🚧  Urtheaman 🚀 Under construction...  🚧
-</h4> 
+</h4>
 
 <hr> -->
 
@@ -44,17 +46,17 @@
 
 <br>
 
-## :dart: About ##
+## :dart: About
 
 Describe your project
 
-## :sparkles: Features ##
+## :sparkles: Features
 
 :heavy_check_mark: Feature 1;\
 :heavy_check_mark: Feature 2;\
 :heavy_check_mark: Feature 3;
 
-## :rocket: Technologies ##
+## :rocket: Technologies
 
 The following tools were used in this project:
 
@@ -64,11 +66,11 @@ The following tools were used in this project:
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## :white_check_mark: Requirements ##
+## :white_check_mark: Requirements
 
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
-## :checkered_flag: Starting ##
+## :checkered_flag: Starting
 
 ```bash
 # Clone this project
@@ -86,10 +88,9 @@ $ yarn start
 # The server will initialize in the <http://localhost:3000>
 ```
 
-## :memo: License ##
+## :memo: License
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
-
 
 Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
 
