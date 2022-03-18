@@ -1,8 +1,8 @@
-<div align="center" id="top"> 
-<h1>urtheaman</h1>
+<div id="top"> 
+  <h1>urtheaman</h1>
 </div>
 
-<div align="center">
+<div>
 <h2>Programming Tech</h2>
   <img alt="TypeScript" title="TypeScript" width="50" height="50" src="https://cdn-images-1.medium.com/max/1200/1*mn6bOs7s6Qbao15PMNRyOA.png">
   <img alt="Python" title="Python" width="50" height="50" src="https://th.bing.com/th/id/OIP.5kvpxVbWPk7jHs3psz0BowHaGf?pid=ImgDet&rs=1">
@@ -15,7 +15,7 @@
 
 Status
 
-<h4 align="center">
+<h4>
 	🚧  Urtheaman 🚀 Under construction...  🚧
 </h4>
 
