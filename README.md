@@ -30,6 +30,10 @@ Python
 </li>
 </ul>
 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urtheaman&langs_count=10&theme=flat&layout=compact" alt="erfan :: Top Langs" />
+</div>
+
 <div align="center">
 	<img alt="TypeScript" title="TypeScript" width="30" height="30" src="https://cdn-images-1.medium.com/max/1200/1*mn6bOs7s6Qbao15PMNRyOA.png">
 	<img alt="Python" title="Python" width="30" height="30" src="https://th.bing.com/th/id/OIP.5kvpxVbWPk7jHs3psz0BowHaGf?pid=ImgDet&rs=1">
@@ -40,11 +44,6 @@ Python
 	<img alt="Redux Saga" title="Redux Saga" width="45" src="https://cdn.freebiesupply.com/logos/large/2x/redux-saga-logo-png-transparent.png">
 	<img alt="Babel" title="Babel" width="50" src="https://raw.githubusercontent.com/babel/logo/master/babel.png">
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="" height="30" width="30">
-</div>
-
-<div>
-  <h2>Top Languages</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urtheaman&langs_count=10&theme=flat&layout=compact" alt="erfan :: Top Langs" />
 </div>
 
 <div align="right">
