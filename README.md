@@ -3,7 +3,7 @@
 
 &#xa0;
 
-<a href="https://urtheaman.netlify.app">Portfolio [currently not available]</a>
+<a href="https://urtheaman.netlify.app" color="#56BEB8">Portfolio</a>
 
 </div>
 
@@ -13,7 +13,7 @@
   <img alt="TypeScript" width="100" height="100" borderRadius="50%" src="https://cdn-images-1.medium.com/max/1200/1*mn6bOs7s6Qbao15PMNRyOA.png">
   <img alt="TypeScript" width="100" height="100" borderRadius="50%" src="https://th.bing.com/th/id/OIP.5kvpxVbWPk7jHs3psz0BowHaGf?pid=ImgDet&rs=1">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/urtheaman?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/urtheaman?color=">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/urtheaman?color=56BEB8">
 
