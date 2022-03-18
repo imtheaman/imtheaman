@@ -1,5 +1,5 @@
 <div id="top"> 
-  <img fill="#fff" src="./signature.svg" />
+  <img fill="rgb(255, 255, 255)" src="./signature.svg" />
 </div>
 
 <h2>Programming Tech</h2>
@@ -26,9 +26,6 @@ Python
   Redux Saga
 </li>
 </ul>
-
-
-
 
 <div align="center">
 <img alt="TypeScript" title="TypeScript" width="32" height="32" src="https://cdn-images-1.medium.com/max/1200/1*mn6bOs7s6Qbao15PMNRyOA.png">
