@@ -1,5 +1,5 @@
 <div id="top"> 
-  <img src="./signature.svg" />
+  <img fill="rgb(255, 69, 0)" src="./signature.svg" />
 </div>
 
 <h2>Programming Tech</h2>
