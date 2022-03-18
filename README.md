@@ -1,21 +1,16 @@
-<style>
-  .name {
-    font-size: 20px;
-    color: red;
-  }
-  </style>
 <div align="center" id="top"> 
-&#xa0;
+<h1>urtheaman</h1>
 </div>
 
-# Markdown heading styles {#identifier .name}
-
-<h1 align="center" id="identifier" class="name">urtheaman</h1>
-
 <p align="center">
-  <img alt="TypeScript" width="100" height="100" radius="50%" src="https://cdn-images-1.medium.com/max/1200/1*mn6bOs7s6Qbao15PMNRyOA.png">
-  <img alt="Python" width="100" height="100" radius="50%" src="https://th.bing.com/th/id/OIP.5kvpxVbWPk7jHs3psz0BowHaGf?pid=ImgDet&rs=1">
-
+  <img alt="TypeScript" title="TypeScript" width="100" height="100" radius="50%" src="https://cdn-images-1.medium.com/max/1200/1*mn6bOs7s6Qbao15PMNRyOA.png">
+  <img alt="Python" title="Python" width="100" height="100" radius="50%" src="https://th.bing.com/th/id/OIP.5kvpxVbWPk7jHs3psz0BowHaGf?pid=ImgDet&rs=1">
+  <img alt="Next" width="100" height="100" radius="50%" title="Next" src="https://cdn.auth0.com/blog/next3/logo.png">
+  <img alt="React" title="React" width="100" height="100" radius="50%" src="https://th.bing.com/th/id/R.f81a6f373c244b1f70f4b7402b5ab372?rik=rbXh4ieLuKt%2bmA&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f09%2fReact_logo_logotype_emblem.png&ehk=QhGOkKcUKCU7FBQgHOajOiJqJBACUTD2Ni6LsfqzCEA%3d&risl=&pid=ImgRaw&r=0">
+  <img alt="Redux" title="Redux" width="100" height="100" radius="50%" src="https://careers.veepee.com/wp-content/uploads/TECHNO_Redux-Logo.png">
+  <img alt="Webpack" title="Webpack" width="100" height="100" radius="50%" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png">
+  <img alt="Redux Saga" title="Redux Saga" width="100" height="100" radius="50%" src="https://cdn.freebiesupply.com/logos/large/2x/redux-saga-logo-png-transparent.png">
+  
 </p>
 
 Status
