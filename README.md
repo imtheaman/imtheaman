@@ -1,3 +1,3 @@
-# profile
+# About me
 
-### My name is Aman. I code in TypeScript and Python.
+### I'm Aman. I code in TypeScript and Python.
