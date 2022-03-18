@@ -2,7 +2,7 @@
 	<img height="120" fill="rgb(255, 255, 255)" src="./signature.svg" />
 </div>
 
-<img alt="Programming Tech" title="Programming Tech" height="100" fill="rgb(255, 255, 255)" src="./programming-tech.svg" />
+<img alt="Programming Tech" title="Programming Tech" height="75" fill="rgb(255, 255, 255)" src="./programming-tech.svg" />
 <ul>
 <li>
   TypeScript
