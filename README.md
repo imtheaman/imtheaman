@@ -38,7 +38,7 @@ Python
 <img alt="Redux" title="Redux" width="32" height="32" src="https://careers.veepee.com/wp-content/uploads/TECHNO_Redux-Logo.png">
 <img alt="Webpack" title="Webpack" width="32" height="32" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png">
 <img alt="Redux Saga" title="Redux Saga" width="40" src="https://cdn.freebiesupply.com/logos/large/2x/redux-saga-logo-png-transparent.png">
-<img alt="Babel" title="Babel" width="45" src="https://raw.githubusercontent.com/babel/logo/master/babel.png">
+<img alt="Babel" title="Babel" width="50" src="https://raw.githubusercontent.com/babel/logo/master/babel.png">
 </div>
 
 Status
