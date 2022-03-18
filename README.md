@@ -48,5 +48,3 @@ Python
 <h4 align="center">
 	🚧  Urtheaman 🚀 Under construction...  🚧
 </h4>
-
-<a href="#top">Back to top</a>
