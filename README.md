@@ -1,6 +1,6 @@
 <div id="top">
 	<img alt="About me" title="About me" height="60" fill="rgb(255, 255, 255)" src="./about-me.svg" />
-  <h3>A Proficient React.js Developer</h3>
+  <h2>A Proficient React.js Developer</h2>
   <span>lorem ipsum dolor semet lorem ipsum dolor semet lorem ipsum dolor semet lorem ipsum dolor semet lorem ipsum dolor semet lorem ipsum dolor semet lorem ipsum dolor semet lorem ipsum dolor semet lorem ipsum dolor semet lorem ipsum dolor semet lorem ipsum dolor semet lorem ipsum dolor semet lorem ipsum dolor semet lorem ipsum dolor semet lorem ipsum dolor semet lorem ipsum dolor semet lorem ipsum dolor semet lorem ipsum dolor semet lorem ipsum dolor semet lorem ipsum dolor semet </span>
 </div>
 
