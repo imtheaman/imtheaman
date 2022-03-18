@@ -1,4 +1,4 @@
-<div id="top" align="center">
+<div id="top">
 	<img alt="About me" title="About me" height="75" fill="rgb(255, 255, 255)" src="./about-me.svg" />
 </div>
 
