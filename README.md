@@ -1,4 +1,4 @@
-<div id="top">
+<div>
 	<img alt="About me" title="About me" height="60" fill="rgb(255, 255, 255)" src="./about-me.svg" />
   &#xa0;
   <div>lorem ipsum dolor semet lorem ipsum dolor semet lorem ipsum dolor semet lorem ipsum dolor semet lorem ipsum dolor semet lorem ipsum dolor semet lorem ipsum dolor semet lorem ipsum dolor semet lorem ipsum dolor semet lorem ipsum dolor semet lorem ipsum dolor semet lorem ipsum dolor semet lorem ipsum dolor semet lorem ipsum dolor semet lorem ipsum dolor semet lorem ipsum dolor semet lorem ipsum dolor semet lorem ipsum dolor semet lorem ipsum dolor semet lorem ipsum dolor semet </div>
