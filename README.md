@@ -1,4 +1,5 @@
-<div id="top"> 
+<div id="top" align="center">
+	<img height="120" fill="rgb(255, 255, 255)" src="./signature.svg" />
 </div>
 
 <h2>Programming Tech</h2>
@@ -35,10 +36,6 @@ Python
 	<img alt="Webpack" title="Webpack" width="32" height="32" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png">
 	<img alt="Redux Saga" title="Redux Saga" width="40" src="https://cdn.freebiesupply.com/logos/large/2x/redux-saga-logo-png-transparent.png">
 	<img alt="Babel" title="Babel" width="50" src="https://raw.githubusercontent.com/babel/logo/master/babel.png">
-</div>
-
-<div align="right">
-	<img height="120" fill="rgb(255, 255, 255)" src="./signature.svg" />
 </div>
 
 Status
