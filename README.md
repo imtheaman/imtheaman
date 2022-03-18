@@ -45,11 +45,7 @@ Python
 	<img alt="Webpack" title="Webpack" width="34" height="34" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png">
 	<img alt="Redux Saga" title="Redux Saga" width="45" src="https://cdn.freebiesupply.com/logos/large/2x/redux-saga-logo-png-transparent.png">
 	<img alt="Babel" title="Babel" width="50" src="https://raw.githubusercontent.com/babel/logo/master/babel.png">
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="" height="30" width="30">
-</div>
-
-<div>
-	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod" />
+  	<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="" height="30" width="30">
 </div>
 
 <div align="right">
