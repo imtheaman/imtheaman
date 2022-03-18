@@ -32,9 +32,11 @@ Python
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urtheaman&langs_count=10&theme=flat&layout=compact" alt="erfan :: Top Langs" />
+  &#xa0;
 </div>
 
 <div align="center">
+  &#xa0;
 	<img alt="TypeScript" title="TypeScript" width="30" height="30" src="https://cdn-images-1.medium.com/max/1200/1*mn6bOs7s6Qbao15PMNRyOA.png">
 	<img alt="Python" title="Python" width="30" height="30" src="https://th.bing.com/th/id/OIP.5kvpxVbWPk7jHs3psz0BowHaGf?pid=ImgDet&rs=1">
 	<img alt="Next" width="30" height="30" title="Next" src="https://cdn.auth0.com/blog/next3/logo.png">
