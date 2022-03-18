@@ -1,8 +1,8 @@
 <div id="top">
-	<img alt="About me" title="About me" height="75" fill="rgb(255, 255, 255)" src="./about-me.svg" />
+	<img alt="About me" title="About me" height="60" fill="rgb(255, 255, 255)" src="./about-me.svg" />
 </div>
 
-<img alt="Programming Tech" title="Programming Tech" height="75" fill="rgb(255, 255, 255)" src="./programming-tech.svg" />
+<img alt="Programming Tech" title="Programming Tech" height="60" fill="rgb(255, 255, 255)" src="./programming-tech.svg" />
 <ul>
 <li>
   TypeScript
