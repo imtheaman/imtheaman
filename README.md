@@ -39,6 +39,7 @@ Python
 	<img alt="Webpack" title="Webpack" width="32" height="32" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png">
 	<img alt="Redux Saga" title="Redux Saga" width="40" src="https://cdn.freebiesupply.com/logos/large/2x/redux-saga-logo-png-transparent.png">
 	<img alt="Babel" title="Babel" width="60" src="https://raw.githubusercontent.com/babel/logo/master/babel.png">
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="" height="30" width="30">
 </div>
 
 <div>
