@@ -1,5 +1,5 @@
 <div id="top" align="center">
-	<img height="120" fill="rgb(255, 255, 255)" src="./signature.svg" />
+	<img alt="About me" title="About me" height="75" fill="rgb(255, 255, 255)" src="./about-me.svg" />
 </div>
 
 <img alt="Programming Tech" title="Programming Tech" height="75" fill="rgb(255, 255, 255)" src="./programming-tech.svg" />
