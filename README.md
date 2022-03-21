@@ -8,27 +8,17 @@
 <img alt="Programming Tech" title="Programming Tech" height="60" fill="rgb(255, 255, 255)" src="./programming-tech.svg" />
 
 <ul>
-<li>
-  TypeScript
-</li>
-<li>
-Python
-  </li>
-  <li>
-  Next.js
-  </li>
-  <li>
-  React.js
-  </li>
-  <li>
-  Redux
-  </li>
-  <li>
-  Webpack
-  </li>
-  <li>
-  Redux Saga
-</li>
+        <li>TypeScript</li>
+        <li>Python</li>
+        <li>Javascript</li>
+        <li>Next.js</li>
+        <li>React.js</li>
+        <li>Redux</li>
+        <li>Webpack</li>
+        <li>Redux Saga</li>
+        <li>Graphql</li>
+        <li>Apollo</li>
+        <li>MongoDB</li>
 </ul>
 
 <div align="center">
