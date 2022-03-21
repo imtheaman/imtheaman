@@ -17,6 +17,8 @@
         <li>Webpack</li>
         <li>Redux Saga</li>
         <li>Graphql</li>
+	<li>SCSS</li>
+	<li>CSS3</li>
         <li>Apollo</li>
         <li>MongoDB</li>
 </ul>
