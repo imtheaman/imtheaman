@@ -1,7 +1,7 @@
 <div>
 	<img alt="About me" title="About me" height="60" fill="rgb(255, 255, 255)" src="./about-me.svg" />
   &#xa0;
-  <div>I enjoy writing code, solving real world problems and finding more problems to solve. I have great interests in physics, ar-vr and ml & ai as well.</div>
+  <div>I enjoy writing code, solving real world problems and finding more problems to solve. I have great interests in physics and technology.</div>
   &#xa0;
 </div>
 
