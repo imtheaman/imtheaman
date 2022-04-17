@@ -19,7 +19,7 @@
         <li>Graphql</li>
 	<li>SCSS</li>
 	<li>CSS3</li>
-        <li>Apollo</li>
+        <li>Apollo Client</li>
         <li>MongoDB</li>
 </ul>
 
