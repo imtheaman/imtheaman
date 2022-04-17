@@ -14,8 +14,8 @@
         <li>Next.js</li>
         <li>React.js</li>
         <li>Redux</li>
+	<li>Redux Toolkit</li>
         <li>Webpack</li>
-        <li>Redux Saga</li>
         <li>Graphql</li>
 	<li>SCSS</li>
 	<li>CSS3</li>
