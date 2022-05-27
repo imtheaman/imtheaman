@@ -1,7 +1,7 @@
 <div>
 	<img alt="About me" title="About me" height="60" fill="rgb(255, 255, 255)" src="./about-me.svg" />
   &#xa0;
-  <div>I enjoy writing code, solving real world problems and finding more problems to solve. I have great interests in physics and technology.</div>
+  <div>I write code which human can understand,likes to solve real world problems and finding more problems to solve. I have great interests in physics and technology.</div>
   &#xa0;
 </div>
 
@@ -33,6 +33,6 @@
 	<img alt="urtheaman" title="urtheaman" height="75" fill="rgb(255, 255, 255)" src="./signature.svg" />
 </div>
 
-<!--<h4 align="center">
+<h4 align="center">
 	🚧  Urtheaman 🚀 Under construction...  🚧
-</h4>-->
+</h4>
