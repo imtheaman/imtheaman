@@ -11,6 +11,7 @@
         <li>TypeScript</li>
         <li>Python</li>
         <li>Javascript</li>
+	<li>React Native</li>
         <li>Next.js</li>
         <li>React.js</li>
         <li>Redux</li>
