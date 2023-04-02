@@ -1,11 +1,11 @@
 <div>
-	<img alt="About me" title="About me" height="60" fill="rgb(255, 255, 255)" src="./about-me.svg" />
+	<img alt="About me" title="About me" height="60" fill="rgb(255, 255, 255)" src="./bou_me.png" />
   &#xa0;
-  <div>I write code which human can understand,likes to solve real world problems and finding more problems to solve. I have great interests in physics and technology.</div>
+  <div>I help companies and individuals create and test dapps using solidity and solana blockchains.</div>
   &#xa0;
 </div>
 
-<img alt="Programming Tech" title="Programming Tech" height="60" fill="rgb(255, 255, 255)" src="./programming-tech.svg" />
+<img alt="Expertise" title="Expertise" height="60" fill="rgb(255, 255, 255)" src="./expertise.png" />
 
 <ul>
 <!--         <li>TypeScript</li>
