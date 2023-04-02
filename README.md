@@ -8,7 +8,7 @@
 <img alt="Programming Tech" title="Programming Tech" height="60" fill="rgb(255, 255, 255)" src="./programming-tech.svg" />
 
 <ul>
-        <li>TypeScript</li>
+<!--         <li>TypeScript</li>
         <li>Python</li>
         <li>Javascript</li>
 	<li>React Native</li>
@@ -21,7 +21,9 @@
 	<li>SCSS</li>
 	<li>CSS3</li>
         <li>Apollo Client</li>
-        <li>MongoDB</li>
+        <li>MongoDB</li> -->
+	<li>Blockchain development</li>
+	<li>MERN stack</li>
 </ul>
 
 <div align="center">
