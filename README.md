@@ -27,13 +27,13 @@
 </ul>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=urtheaman&show_icons=true&theme=radical&count_private=true&line_height=24" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urtheaman&langs_count=10&theme=radical&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/?username=imtheaman&show_icons=true&theme=radical&count_private=true&line_height=24" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtheaman&langs_count=10&theme=radical&layout=compact" />
   &#xa0;
 </div>
 
 <div align="right">
-	<img alt="urtheaman" title="urtheaman" height="75" fill="rgb(255, 255, 255)" src="./signature.svg" />
+	<img alt="imtheaman" title="imtheaman" height="75" fill="rgb(255, 255, 255)" src="./signature.svg" />
 </div>
 
 <h4 align="center">
