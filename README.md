@@ -1,14 +1,14 @@
 <div>
 	<img alt="About me" title="About me" height="60" fill="rgb(255, 255, 255)" src="./bou_me.png" />
   &#xa0;
-  <div>I help companies and individuals create and test dapps using solidity and solana blockchains.</div>
+  <div>Self taught Software Engineer with 3+ years of experience in MERN stack and expertise in web & mobile application development. Exploring go, solidity, hyperledger</div>
   &#xa0;
 </div>
 
 <img alt="Expertise" title="Expertise" height="60" fill="rgb(255, 255, 255)" src="./expertise.png" />
 
 <ul>
-<!--         <li>TypeScript</li>
+        <li>TypeScript</li>
         <li>Python</li>
         <li>Javascript</li>
 	<li>React Native</li>
@@ -21,7 +21,7 @@
 	<li>SCSS</li>
 	<li>CSS3</li>
         <li>Apollo Client</li>
-        <li>MongoDB</li> -->
+        <li>MongoDB</li>
 	<li>Blockchain development</li>
 	<li>MERN stack</li>
 </ul>
@@ -35,7 +35,3 @@
 <div align="right">
 	<img alt="imtheaman" title="imtheaman" height="75" fill="rgb(255, 255, 255)" src="./signature.svg" />
 </div>
-
-<h4 align="center">
-	🚧  Imtheaman 🚀 Under construction...  🚧
-</h4>
