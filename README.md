@@ -1,11 +1,7 @@
 <div>
-	<img alt="About me" title="About me" height="60" fill="rgb(255, 255, 255)" src="./bou_me.png" />
-  &#xa0;
-  <div>Self taught Software Engineer with 3+ years of experience in MERN stack and expertise in web & mobile application development. Exploring go, solidity, hyperledger</div>
+  <div>Self taught Software Engineer with 3+ years of experience in MERN stack and expertise in web & mobile application development.</div>
   &#xa0;
 </div>
-
-<img alt="Expertise" title="Expertise" height="60" fill="rgb(255, 255, 255)" src="./expertise.png" />
 
 <ul>
         <li>TypeScript</li>
@@ -30,8 +26,4 @@
   <img src="https://github-readme-stats.vercel.app/api/?username=imtheaman&show_icons=true&theme=radical&count_private=true&line_height=24" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtheaman&langs_count=10&theme=radical&layout=compact" />
   &#xa0;
-</div>
-
-<div align="right">
-	<img alt="imtheaman" title="imtheaman" height="75" fill="rgb(255, 255, 255)" src="./signature.svg" />
 </div>
