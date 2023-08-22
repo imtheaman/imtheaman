@@ -23,7 +23,7 @@
 </ul>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=imtheaman&show_icons=true&theme=radical&count_private=true&line_height=24" />
+  <img src="https://github-readme-stats.vercel.app/api/?username=imtheaman&show_icons=true&rank_icon=github&theme=radical&count_private=true&line_height=24" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtheaman&langs_count=10&theme=radical&layout=compact" />
   &#xa0;
 </div>
