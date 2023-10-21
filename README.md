@@ -1,5 +1,5 @@
 <div>
-  <div>Self taught Software Engineer with 3+ years of experience in MERN stack and expertise in web & mobile application development.</div>
+  <div>Self taught Software Engineer with 2+ years of experience in React native & MERN stack and expertise in mobile application development.</div>
   &#xa0;
 </div>
 
@@ -8,6 +8,11 @@
         <li>Python</li>
         <li>Javascript</li>
 	<li>React Native</li>
+        <li>React Native native modules</li>
+        <li>Native Android development</li>
+        <li>Kotlin</li>
+        <li>Jetpack Compose, Material3</li>
+        <li>Retrofit, RoomDb and others</li>
         <li>Next.js</li>
         <li>React.js</li>
         <li>Redux</li>
@@ -18,7 +23,7 @@
 	<li>CSS3</li>
         <li>Apollo Client</li>
         <li>MongoDB</li>
-	<li>Blockchain development</li>
+	<li>Solidity, Blockchain development</li>
 	<li>MERN stack</li>
 </ul>
 
