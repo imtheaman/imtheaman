@@ -3,6 +3,10 @@
   &#xa0;
 </div>
 
+<div>
+	Most of my repos are private for a reason*
+</div>
+
 <ul>
         <li>TypeScript</li>
         <li>Python</li>
